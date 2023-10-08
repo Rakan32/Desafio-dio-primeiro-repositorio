@@ -1,0 +1,5 @@
+Definbições basicas dos comandos
+
+Git Push - Enviar modifiocação para de repositorio remoto para o GitHub
+
+Git Pull - Trazer alterções feita no repositorio do GitHub para sua computador
